@@ -168,7 +168,7 @@ http://chairnerd.seatgeek.com/fuzzywuzzy-fuzzy-string-matching-in-python/
 - Observed the distribution of features
 - TSNE visualisation: It can be clearly observed that the two classes can be seperated nicely, with some overlapping. This suggests that the advance features are useful in some ways.
 
-Visit Section 3.5 of ** 2. Quora_Prerpocessing** notebook for furthur details.
+Visit Section 3.5 of **2. Quora_Prerpocessing** notebook for furthur details.
 
 <h3> 2.1.6 Feature Importance </h3>
 
